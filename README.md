@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/PHP_RTC/blob/master/auto.png)
+![Image of Yaktocat](https://github.com/cluco91/JAVA_WINAMP/blob/master/music.png)
 
 # JAVA_WINAMP
 
