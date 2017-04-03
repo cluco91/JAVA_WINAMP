@@ -2,4 +2,4 @@
 
 # JAVA_WINAMP
 
-Un reproductor mp3 sencillo  en consola de java, desarrollado para la asignatura de Estructura de Datos.
+- Un reproductor mp3 sencillo  en consola de java, desarrollado para la asignatura de Estructura de Datos.
